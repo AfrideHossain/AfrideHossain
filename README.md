@@ -1,3 +1,4 @@
+<h1> Afride Hossain </h1>
 - 👋 Hi, I’m @AfrideHossain
 - 👀 I’m interested in Competetive programming
 - 🌱 I’m currently learning React.js
