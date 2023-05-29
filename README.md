@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @AfrideHossain
 - 👀 I’m interested in Competetive programming
 - 🌱 I’m currently learning React.js
-- 📫 Follow me on https://www.facebook.com/hossain.afride.7
+- 📫 Follow me on https://www.facebook.com/afrede.hossain1
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
