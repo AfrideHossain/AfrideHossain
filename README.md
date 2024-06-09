@@ -4,9 +4,12 @@
 # 💫 About Me: -->
 🔭 I’m currently working on griho-noiponno<br>🌱 I’m currently learning Next.js, Redux<br>💬 Ask me about React, NodeJS<br>👨‍💻 All of my projects are available at https://afredehossain.netlify.app<br>📄 Know about my experiences https://drive.google.com/file/d/1vwK9AypnxLMmgwUU4u34rsxoNYPP7_vo/view?pli=1<br>📫 How to reach me afredehossain@gmail.con<br>⚡ Fun fact I think I'm handsome.
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afrede.hossain1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afrede_doesnt_exist_anymore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afridehossain)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/afridehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afridehossain" height="30" width="40" /></a>
+<a href="https://fb.com/afrede.hossain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afrede.hossain1" height="30" width="40" /></a>
+<a href="https://instagram.com/afrede_doesnt_exist_anymore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afrede_doesnt_exist_anymore" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 
