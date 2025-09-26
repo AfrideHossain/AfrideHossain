@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Bangladesh</h3>
 <!-- 
 # 💫 About Me: -->
-🔭 I’m currently working on griho-noiponno<br>🌱 I’m currently learning Next.js, Redux<br>💬 Ask me about React, NodeJS<br>👨‍💻 All of my projects are available at https://afredehossain.netlify.app<br>📄 Know about my experiences https://drive.google.com/file/d/1vwK9AypnxLMmgwUU4u34rsxoNYPP7_vo/view?pli=1<br>📫 How to reach me afredehossain@gmail.con<br>⚡ Fun fact I think I'm handsome.
+🔭 I’m currently working on Img-Magic<br>🌱 I’m currently learning Next.js, Redux<br>💬 Ask me about React, NodeJS<br>👨‍💻 All of my projects are available at https://afredehossain.netlify.app<br>📄 Know about my experiences https://drive.google.com/file/d/1vwK9AypnxLMmgwUU4u34rsxoNYPP7_vo/view?pli=1<br>📫 How to reach me afredehossain@gmail.con<br>⚡ Fun fact I think I'm handsome.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
